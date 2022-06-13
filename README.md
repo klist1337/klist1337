@@ -1,3 +1,3 @@
-bash-3.2$ ECHO HELLO WORLD
+𝐛𝐚𝐬𝐡-𝟑.𝟐$ 𝐄𝐂𝐇𝐎 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃
 
-HELLO WORLD
+𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃
