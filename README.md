@@ -24,4 +24,6 @@ https://klist1337.github.io/portfolio
 ---
 [![](https://visitcount.itsvg.in/api?id=klist1337&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://app.daily.dev/klist1337"><img src="https://api.daily.dev/devcards/v2/hBwyFJsqAUHnVAxxQNPHV.png?type=wide&r=iy9" width="652" alt="Assofi Ehouman Dominique's Dev Card"/></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
