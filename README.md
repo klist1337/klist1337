@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hello there! I'm Assofi Ehouman Dominique, Junior Full-Stack Developer. <br>My passion lies in the realms of  web and mobile development, and I'm a dedicated enthusiast in the field of cybersecurity and artificial intelligence. <br>I believe in the power of code to shape the future, and I'm constantly exploring new technologies to expand my skill set.<br>When I'm not immersed in lines of code, you can find me exploring the latest trends in cybersecurity and AI.<br>Let's connect and collaborate on exciting projects! 🚀
-<a href="https://app.daily.dev/klist1337"><img src="https://api.daily.dev/devcards/v2/hBwyFJsqAUHnVAxxQNPHV.png?type=wide&r=iy9" width="652" alt="Assofi Ehouman Dominique's Dev Card"/></a>
+<a href="https://app.daily.dev/klist1337"><img src="https://api.daily.dev/devcards/v2/hBwyFJsqAUHnVAxxQNPHV.png?type=default&r=iy9" width="356" alt="Assofi Ehouman Dominique's Dev Card"/></a>
 
 Visit my portfolio here 
 https://klist1337.github.io/portfolio
